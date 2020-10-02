@@ -18,8 +18,13 @@ https://storybook.js.org/
 https://responsively.app/
 
 ## UI/UX
+### General
 https://lawsofux.com/
 https://uiplaybook.dev/
+### HTML
+https://graygrids.com/templates/category/free-html-templates/
+### CSS
+https://getcssscan.com/css-box-shadow-examples
 
 ## Web Components (Plain HTML/CSS/JS Components)
 https://www.fast.design/docs/introduction
