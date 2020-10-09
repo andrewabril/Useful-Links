@@ -21,6 +21,7 @@ https://responsively.app/
 ### General
 https://lawsofux.com/
 https://uiplaybook.dev/
+https://colorhunt.co/
 ### HTML
 https://graygrids.com/templates/category/free-html-templates/
 ### CSS
@@ -31,3 +32,6 @@ https://www.fast.design/docs/introduction
 
 ## Machine Learning
 https://www.mrdbourke.com/how-id-start-learning-machine-learning-again-3-years-in/
+
+## Emails
+https://mjml.io/
