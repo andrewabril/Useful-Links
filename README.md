@@ -4,10 +4,12 @@ Useful links relating to programming, app building, graphic design, etc.
 ## SVG
 ### Images
 https://www.pixeltrue.com/free-illustrations
+
 https://undraw.co/illustrations
 
 ### Icons
 https://www.iconshock.com/social-media-icons/
+
 https://basicons.xyz/
 
 ## Design Systems
@@ -21,10 +23,14 @@ https://responsively.app/
 ## UI/UX
 ### General
 https://lawsofux.com/
+
 https://uiplaybook.dev/
+
 https://colorhunt.co/
+
 ### HTML
 https://graygrids.com/templates/category/free-html-templates/
+
 ### CSS
 https://getcssscan.com/css-box-shadow-examples
 
