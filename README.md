@@ -42,3 +42,6 @@ https://www.mrdbourke.com/how-id-start-learning-machine-learning-again-3-years-i
 
 ## Emails
 https://mjml.io/
+
+### Animation
+https://greensock.com/gsap/
