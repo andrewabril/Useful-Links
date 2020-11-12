@@ -7,6 +7,8 @@ https://www.pixeltrue.com/free-illustrations
 
 https://undraw.co/illustrations
 
+https://www.humaaans.com/
+
 ### Icons
 https://www.iconshock.com/social-media-icons/
 
