@@ -14,6 +14,9 @@ https://www.iconshock.com/social-media-icons/
 
 https://basicons.xyz/
 
+### Backgrounds
+https://www.magicpattern.design/tools/css-backgrounds
+
 ## Design Systems
 ### Component Libraries
 https://storybook.js.org/
