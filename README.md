@@ -53,3 +53,6 @@ https://greensock.com/gsap/
 
 ## Charts/Graphs
 https://github.com/Rich-Harris/pancake
+
+## Mock Data
+https://next.json-generator.com/
