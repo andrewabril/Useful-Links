@@ -14,6 +14,8 @@ https://www.iconshock.com/social-media-icons/
 
 https://basicons.xyz/
 
+https://phosphoricons.com/
+
 ### Backgrounds
 https://www.magicpattern.design/tools/css-backgrounds
 
