@@ -1,6 +1,8 @@
 # Useful-Links
 Useful links relating to programming, app building, graphic design, etc.
 
+https://free-for.dev/#/
+
 ## SVG
 ### Images
 https://www.pixeltrue.com/free-illustrations
@@ -18,6 +20,11 @@ https://phosphoricons.com/
 
 ### Backgrounds
 https://www.magicpattern.design/tools/css-backgrounds
+
+https://www.svgwaves.io/
+
+# Transitions
+https://transition.style/
 
 ## Design Systems
 ### Component Libraries
