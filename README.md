@@ -66,6 +66,6 @@ https://github.com/Rich-Harris/pancake
 ## Mock Data
 https://next.json-generator.com/
 
-### Libraries
+## Libraries
 Slide show: https://swiperjs.com/
 
