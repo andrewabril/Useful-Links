@@ -69,3 +69,5 @@ https://next.json-generator.com/
 ## Libraries
 Slide show: https://swiperjs.com/
 
+## Text Detection
+https://code-ai.mk/text-detection-with-c/?utm_source=csharpdigest&utm_medium=email&utm_campaign=355
