@@ -18,12 +18,20 @@ https://basicons.xyz/
 
 https://phosphoricons.com/
 
+https://fonts.google.com/icons
+
 ### Backgrounds
 https://www.magicpattern.design/tools/css-backgrounds
 
 https://www.svgwaves.io/
 
-# Transitions
+### Blobs
+https://blobs.app/?e=17&gw=7&se=8128&o=0&pat=hexagons
+
+## Colors
+https://enes.in/sorted-colors/
+
+## Transitions
 https://transition.style/
 
 ## Design Systems
