@@ -68,6 +68,8 @@ https://mjml.io/
 ## Animation
 https://greensock.com/gsap/
 
+https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
+
 ## Charts/Graphs
 https://github.com/Rich-Harris/pancake
 
