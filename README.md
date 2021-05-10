@@ -20,6 +20,8 @@ https://phosphoricons.com/
 
 https://fonts.google.com/icons
 
+https://iconic.app/
+
 ### Backgrounds
 https://www.magicpattern.design/tools/css-backgrounds
 
