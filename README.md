@@ -11,6 +11,8 @@ https://undraw.co/illustrations
 
 https://www.humaaans.com/
 
+https://2.flexiple.com/scale/multi-color-illustrations
+
 ### Icons
 https://www.iconshock.com/social-media-icons/
 
@@ -21,6 +23,8 @@ https://phosphoricons.com/
 https://fonts.google.com/icons
 
 https://iconic.app/
+
+https://app.streamlinehq.com/icons
 
 ### Backgrounds
 https://www.magicpattern.design/tools/css-backgrounds
