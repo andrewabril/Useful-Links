@@ -13,6 +13,8 @@ https://www.humaaans.com/
 
 https://2.flexiple.com/scale/multi-color-illustrations
 
+https://www.onlygfx.com/
+
 ### Icons
 https://www.iconshock.com/social-media-icons/
 
